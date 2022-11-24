@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3a4b245.chunk.css",
+    "main.js": "/static/js/main.d0c1d183.chunk.js",
+    "main.js.map": "/static/js/main.d0c1d183.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3df4e782.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3df4e782.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.e1c0e868.chunk.js": "/static/js/2.e1c0e868.chunk.js",
+    "static/js/2.e1c0e868.chunk.js.map": "/static/js/2.e1c0e868.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.d3a4b245.chunk.css.map": "/static/css/main.d3a4b245.chunk.css.map",
+    "static/js/2.e1c0e868.chunk.js.LICENSE.txt": "/static/js/2.e1c0e868.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/font.811ccb0b.otf",
+    "static/media/logo.be0a265d.svg": "/static/media/logo.be0a265d.svg",
+    "static/media/materialdesignicons.css": "/static/media/materialdesignicons-webfont.e9db4005.woff2",
+    "static/media/tulips.33106dc7.png": "/static/media/tulips.33106dc7.png",
+    "static/media/tulipsMobile.48d30a02.png": "/static/media/tulipsMobile.48d30a02.png",
+    "static/media/wallet.0537f704.svg": "/static/media/wallet.0537f704.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df4e782.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.e1c0e868.chunk.js",
+    "static/css/main.d3a4b245.chunk.css",
+    "static/js/main.d0c1d183.chunk.js"
+  ]
+}
